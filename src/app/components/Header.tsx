@@ -24,9 +24,9 @@ export default function Header() {
                         </div>
                         <div>
                             <h1 className="text-xl sm:text-3xl font-bold bg-gradient-to-r from-gray-900 to-gray-700 bg-clip-text text-transparent">
-                                Vault
+                                Account Vault
                             </h1>
-                            <p className="text-xs sm:text-sm text-gray-500 -mt-1">Premium Accounts</p>
+                            <p className="text-xs sm:text-sm text-gray-500 -mt-1">Best Accounts | Quick Delivery</p>
                         </div>
                     </div>
 
