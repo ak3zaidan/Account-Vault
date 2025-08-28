@@ -7,9 +7,9 @@
             "id": "popmart",
             "name": "Popmart",
             "logo": "popmart.com",
-            "price": "$0.5/acc",
-            "singlePrice": "$0.75",
-            "bulkPrice": "$0.5",
+            "price": "$0.35/acc",
+            "singlePrice": "$0.5",
+            "bulkPrice": "$0.35",
             "category": "accounts",
             "deliveryEta": "INSTANT",
             "requirements": [
