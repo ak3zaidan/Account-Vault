@@ -102,7 +102,7 @@
         {
             "id": "topps",
             "name": "Topps",
-            "logo": "topps.com",
+            "logo": "https://res.cloudinary.com/little-league/image/upload/v1628599299/Topps-Outline-1-e1628599299604-611274038e1f7.jpg",
             "price": "$0.9/acc",
             "singlePrice": "$0.9",
             "bulkPrice": "$0.65",
