@@ -100,6 +100,25 @@
             "brandColor": "from-blue-50 via-cyan-50 to-teal-50"
         },
         {
+            "id": "topps",
+            "name": "Topps",
+            "logo": "topps.com",
+            "price": "$0.9/acc",
+            "singlePrice": "$0.9",
+            "bulkPrice": "$0.65",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "List of your own emails to create accounts under OR a catchall domain",
+                "IMAP credentials for master email",
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password"
+            ],
+            "brandColor": "from-green-50 via-emerald-50 to-teal-50"
+        },
+        {
             "id": "pokemon",
             "name": "Pokemon US/UK",
             "logo": "pokemon.com",
