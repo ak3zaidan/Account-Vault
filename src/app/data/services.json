@@ -95,7 +95,8 @@
                 "Payment made before hand"
             ],
             "information": [
-                "Delivery Format: email:password"
+                "Delivery Format: email:password",
+                "You can optionally provide IMAP info if you'd like the accounts verified!"
             ],
             "brandColor": "from-blue-50 via-cyan-50 to-teal-50"
         },
