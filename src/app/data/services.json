@@ -264,6 +264,62 @@
                 "Delivery CSV File Format: CC Num, CC EXP, CCV"
             ],
             "brandColor": "from-green-50 via-emerald-50 to-teal-50"
+        },
+        {
+            "id": "Twitter/X",
+            "name": "Twitter/X",
+            "logo": "@twitter.png",
+            "price": "$0.75/acc",
+            "singlePrice": "$0.75",
+            "bulkPrice": "$0.5",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "List of your own emails to create accounts under OR a catchall domain",
+                "IMAP credentials for master email",
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password"
+            ],
+            "brandColor": "from-red-50 via-rose-100 to-pink-200"
+        },
+        {
+            "id": "Spofity",
+            "name": "Spofity",
+            "logo": "@spotify.png",
+            "price": "$0.25/acc",
+            "singlePrice": "$0.25",
+            "bulkPrice": "$0.1",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password",
+                "Each account comes with 3 free months of premium!"
+            ],
+            "brandColor": "from-amber-50 via-orange-100 to-red-200"
+        },
+        {
+            "id": "Reddit",
+            "name": "Reddit",
+            "logo": "@reddit.png",
+            "price": "$0.5/acc",
+            "singlePrice": "$0.5",
+            "bulkPrice": "$0.25",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "List of your own emails to create accounts under OR a catchall domain",
+                "IMAP credentials for master email",
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password"
+            ],
+            "brandColor": "from-sky-50 via-blue-100 to-indigo-200"
         }
     ],
     "mail": [
