@@ -101,6 +101,27 @@
             "brandColor": "from-blue-50 via-cyan-50 to-teal-50"
         },
         {
+            "id": "aliexpress",
+            "name": "AliExpress",
+            "logo": "@aliexpress.png",
+            "price": "$0.95/acc",
+            "singlePrice": "$0.95",
+            "bulkPrice": "$0.7",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "List of your own emails/catchall to create accounts under",
+                "IMAP credentials for master email",
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password",
+                "Accounts work for ALL regions!",
+                "Email verified accounts!"
+            ],
+            "brandColor": "from-orange-50 via-amber-50 to-yellow-50"
+        },
+        {
             "id": "topps",
             "name": "Topps",
             "logo": "@topps.png",
