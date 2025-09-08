@@ -286,8 +286,8 @@
             "brandColor": "from-red-50 via-rose-100 to-pink-200"
         },
         {
-            "id": "Spofity",
-            "name": "Spofity",
+            "id": "Spotify",
+            "name": "Spotify",
             "logo": "@spotify.png",
             "price": "$0.25/acc",
             "singlePrice": "$0.25",
