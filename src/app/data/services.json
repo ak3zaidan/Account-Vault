@@ -85,9 +85,9 @@
             "id": "bestbuy",
             "name": "Best Buy",
             "logo": "bestbuy.com",
-            "price": "$0.75/acc",
-            "singlePrice": "$0.75",
-            "bulkPrice": "$0.5",
+            "price": "$0.85/acc",
+            "singlePrice": "$0.85",
+            "bulkPrice": "$0.65",
             "category": "accounts",
             "deliveryEta": "0-2 hours",
             "requirements": [
