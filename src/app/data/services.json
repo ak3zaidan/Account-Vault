@@ -46,9 +46,9 @@
             "id": "pkc",
             "name": "PKC Japan",
             "logo": "@pkc.png",
-            "price": "$1.5/acc",
-            "singlePrice": "$1.5",
-            "bulkPrice": "$1.0",
+            "price": "$1/acc",
+            "singlePrice": "$1",
+            "bulkPrice": "$0.75",
             "category": "accounts",
             "deliveryEta": "0-2 hours",
             "requirements": [
