@@ -43,6 +43,28 @@
             "brandColor": "from-blue-50 via-indigo-50 to-purple-50"
         },
         {
+            "id": "pkc",
+            "name": "PKC Japan",
+            "logo": "@pkc.png",
+            "price": "$1.5/acc",
+            "singlePrice": "$1.5",
+            "bulkPrice": "$1.0",
+            "category": "accounts",
+            "deliveryEta": "0-2 hours",
+            "requirements": [
+                "List of your own emails to create accounts under",
+                "IMAP credentials for master email",
+                "Payment made before hand"
+            ],
+            "information": [
+                "Delivery Format: email:password",
+                "High quality accounts made on Japan Resi",
+                "Email verified accounts!",
+                "Accounts are NOT sms verified"
+            ],
+            "brandColor": "from-orange-50 via-amber-50 to-yellow-50"
+        },
+        {
             "id": "amazon",
             "name": "Amazon",
             "logo": "amazon.com",
