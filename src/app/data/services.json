@@ -48,7 +48,7 @@
             "logo": "@pkc.png",
             "price": "$1/acc",
             "singlePrice": "$1",
-            "bulkPrice": "$0.75",
+            "bulkPrice": "$0.65 | 100¥",
             "category": "accounts",
             "deliveryEta": "0-2 hours",
             "requirements": [
