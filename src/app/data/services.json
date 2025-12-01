@@ -310,25 +310,6 @@
             "brandColor": "from-green-50 via-emerald-50 to-teal-50"
         },
         {
-            "id": "Twitter/X",
-            "name": "Twitter/X",
-            "logo": "@twitter.png",
-            "price": "$0.75/acc",
-            "singlePrice": "$0.75",
-            "bulkPrice": "$0.5",
-            "category": "accounts",
-            "deliveryEta": "0-2 hours",
-            "requirements": [
-                "List of your own emails to create accounts under OR a catchall domain",
-                "IMAP credentials for master email",
-                "Payment made before hand"
-            ],
-            "information": [
-                "Delivery Format: email:password"
-            ],
-            "brandColor": "from-red-50 via-rose-100 to-pink-200"
-        },
-        {
             "id": "Spotify",
             "name": "Spotify",
             "logo": "@spotify.png",
