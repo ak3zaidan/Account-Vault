@@ -1,7 +1,7 @@
 {
     "discordServer": "https://t.me/akzaidan",
-    "supportUsername": "@vault_help",
-    "telegramUsername": "@akzaidan",
+    "supportUsername": "@akzaidan",
+    "telegramUsername": "@vault_help",
     "accounts": [
         {
             "id": "popmart",
